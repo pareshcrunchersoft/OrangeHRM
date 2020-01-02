@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="124434" started-at="2019-12-31T18:42:15 IST" finished-at="2019-12-31T18:44:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="124434" started-at="2019-12-31T18:42:15 IST" finished-at="2019-12-31T18:44:19 IST">
+      <class name="pages.AddEmployeeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.AddEmployeeTest@6b1274d2]" name="setUp" is-config="true" duration-ms="64986" started-at="2019-12-31T18:42:15 IST" finished-at="2019-12-31T18:43:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCreateLoginDetails()[pri:0, instance:pages.AddEmployeeTest@6b1274d2]" name="verifyCreateLoginDetails" duration-ms="782" started-at="2019-12-31T18:43:20 IST" finished-at="2019-12-31T18:43:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateLoginDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.AddEmployeeTest@6b1274d2]" name="tearDown" is-config="true" duration-ms="54" started-at="2019-12-31T18:43:21 IST" finished-at="2019-12-31T18:43:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.AddEmployeeTest@6b1274d2]" name="setUp" is-config="true" duration-ms="58384" started-at="2019-12-31T18:43:21 IST" finished-at="2019-12-31T18:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageLoad()[pri:0, instance:pages.AddEmployeeTest@6b1274d2]" name="verifyPageLoad" duration-ms="134" started-at="2019-12-31T18:44:19 IST" finished-at="2019-12-31T18:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoad -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.AddEmployeeTest@6b1274d2]" name="tearDown" is-config="true" duration-ms="60" started-at="2019-12-31T18:44:19 IST" finished-at="2019-12-31T18:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.AddEmployeeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
